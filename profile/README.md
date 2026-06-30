@@ -1,3 +1,5 @@
 ## Dialogus (YC S26)
 
-Frontier models for Voice AI
+Dialogus is a foundational voice AI lab building agents and infrastructure that resolve live customer conversations across phone, workflow, and enterprise systems.
+
+
